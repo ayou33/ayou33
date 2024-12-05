@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayou-ok[Are you ok]
+- 👋 Hi, I’m 阿佑[阿弥陀佛菩萨保佑]
 - 👀 I’m interested in front-end about, and now focused on my own [Stock-chart📈](https://github.com/ayou-ok/stock-chart) lib dev
 - 🌱 I’m currently learning Canvas
 - 💞️ I’m looking to collaborate on common open source general UI/Functional lib
